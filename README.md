@@ -2,7 +2,7 @@
 My first repository
 
 ### My favorite movie
-** # Cosmic Princess Kaguya **
+** Cosmic Princess Kaguya **
 
 ---
 
